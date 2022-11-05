@@ -53,10 +53,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="Git" width="40" height="40"/>
 </div>
   <hr>
-<!-- ### :fire: My Stats : -->
-<!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ayushh1804&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ayushh1804&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ayushh1804)](https://git.io/streak-stats)
   <hr>
+  
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushh1804&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![@ayushh1804's Holopin board](https://holopin.me/ayushh1804)](https://holopin.io/@ayushh1804)
 
