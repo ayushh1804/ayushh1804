@@ -25,8 +25,8 @@
 </div
   </div>
 
-
-### :hammer_and_wrench: Languages,Frameworks and tools :
+&nbsp;&nbsp;
+### :hammer_and_wrench: Languages,Frameworks and tools :&nbsp;&nbsp;
   
   <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="Git" width="40" height="40"/>
@@ -60,6 +60,7 @@
   
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushh1804&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+&nbsp;&nbsp;
+  
 [![@ayushh1804's Holopin board](https://holopin.me/ayushh1804)](https://holopin.io/@ayushh1804)
 
