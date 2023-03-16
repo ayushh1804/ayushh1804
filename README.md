@@ -1,9 +1,31 @@
 <h1>
-  Hey there..
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="header.png" alt="" style="border-radius: 20px;"/>
 </h1>
  
-- :mailbox:Reach me : [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushraj18/)
+<!-- - :mailbox:Reach me : [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushraj18/) -->
+<div>
+  <div>
+    
+   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=700&size=35&pause=1000&color=140604&center=true&multiline=true&width=435&lines=Wanna+know+more+about+me!!" alt="Typing SVG" /></a>
+  </div>
+  </div>
+  <div>
+<ul>
+  <li>  I'm currently pursuing B.Tech. in Computer Science Engineering at SRMIST,Chennai,India 🇮🇳</li>
+  <li>I'm a Frontend Web Developer and specialise in ReactJS,TailwindCSS and NextJS👻.</li>
+<li> I’m currently learning Backened using NodeJs,MongoDB,Django,ExpressJS👀.</li>
+<li> Looking to intern React Developers Role!!.</li>
+<li>I'm exploring Google Cloud and also have keen interest in AiMl in topics related to Natural Language Processing and Computer Vision.🥹</li>
+<li> I love Coding,Cricket,PC Games,Travelling and exploring the world🕶.</li>
+  <li>You'll also find me watching a lot of SciFi movies and documentaries,i love them all<3💭</li>
+
+  </ul>
+  </div>
+  <div>
+    
+  </div>
+  </div>
 ---
 
 <div id="header" align="center">
