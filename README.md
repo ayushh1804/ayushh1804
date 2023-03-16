@@ -1,5 +1,5 @@
 <h1>
-  <img src="header.png" alt="" style="border-radius: 20px;"/>
+  <img src="newheader.png" alt="" style="border-radius: 20px;"/>
 </h1>
  
 <!-- - :mailbox:Reach me : [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushraj18/) -->
@@ -26,45 +26,24 @@
   </p>
  
   </div>
-<br /><br /><br />
-
-<div id="header" align="center">
-<!--   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/> -->
-</div>
-<div align="center">
-
-  </div>
- <p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;
-  :hammer_and_wrench: <b>Languages and Tools</b> :&nbsp;&nbsp;<br /><br />
-  </p>
+  <br/>
   <p align="center">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="Git" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="Git" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Git" width="40" height="40"/>
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp; -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="Git" width="40" height="40"/>
-</p>
+   <a href="https://www.linkedin.com/in/" target="ayushraj18">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+    <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+  </p>
+<br /><br /><br />
+<div align="center">
+<div style="display: flex;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" style="width: 60px; height: 60px; margin-right: 49px; margin-bottom: 49px;" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" style="width: 60px; height: 60px; margin-right: 49px; margin-bottom: 49px;" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="60" style="width: 60px; height: 60px; margin-right: 49px; margin-bottom: 49px;" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="60" style="width: 60px; height: 60px; margin-right: 49px; margin-bottom: 49px;" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" style="width: 60px; height: 60px; margin-right: 49px; margin-bottom: 49px;" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="60" style="width: 60px; height: 60px; margin-right: 0px; margin-bottom: 49px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" style="width: 60px; height: 60px; margin-right: 49px; margin-bottom: 49px;" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="60" style="width: 60px; height: 60px; margin-right: 49px; margin-bottom: 49px;" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" style="width: 60px; height: 60px; margin-right: 49px; margin-bottom: 49px;" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" style="width: 60px; height: 60px; margin-right: 49px; margin-bottom: 49px;" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="60" style="width: 60px; height: 60px; margin-right: 49px; margin-bottom: 49px;" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="60" style="width: 60px; height: 60px; margin-right: 0px; margin-bottom: 49px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="60" style="width: 60px; height: 60px; margin-right: 49px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="60" style="width: 60px; height: 60px; margin-right: 49px; margin-bottom: 0px;" /></div>
+
+</div>
   <br /><br />
-<div style="display:flex;">
-<div>
+
+
+
  
 <!--    stats -->
 <!--  <p align="center">
@@ -98,6 +77,7 @@
   </div>
   </div>
 &nbsp;&nbsp;
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
   
 [![@ayushh1804's Holopin board](https://holopin.me/ayushh1804)](https://holopin.io/@ayushh1804)
 
