@@ -67,6 +67,8 @@
   <div align="center">
 
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  <br />
+  ![](https://komarev.com/ghpvc/?username=ayushh1804&color=blue)
      </div>  
 
 
