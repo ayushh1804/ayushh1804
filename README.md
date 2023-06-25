@@ -1,6 +1,6 @@
 
 
-[![@ayushh1804's Holopin board](https://holopin.me/ayushh1804)](https://holopin.io/@ayushh1804)
+
 <h1 align="center">
   <img src="newheader.png" alt="" style="border-radius: 20px;"/>
 </h1>
@@ -68,6 +68,7 @@
 
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
   <br />
+  [![@ayushh1804's Holopin board](https://holopin.me/ayushh1804)](https://holopin.io/@ayushh1804)
   ![](https://komarev.com/ghpvc/?username=ayushh1804&color=blue)
      </div>  
 
